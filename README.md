@@ -1,29 +1,29 @@
 
 # Table of Contents
 
-1.  [Java后端工程师课程大纲(20周)](#orgb344854)
-    1.  [编程入门及Java基础(10周)](#org1e5ba2e)
-        1.  [预备课(5天)](#org20ca2af)
-        2.  [计算机科学导论(3天)](#orgab1a3cd)
-        3.  [编程入门(10天)](#org7a4df16)
-        4.  [JavaSE(47天)](#org89ba708)
-        5.  [数据结构和算法(10天)](#org1ad9d1a)
-    2.  [Java Web开发(10周)](#org794851e)
-        1.  [JavaEA(30天)](#orgad3839c)
-        2.  [项目实战(15天)](#orgf4dbfdf)
+1.  [Java后端工程师课程大纲(20周)](#orgdfa75e7)
+    1.  [编程入门及Java基础(11周)](#org5ed6611)
+        1.  [预备课(5天)](#org0a8772f)
+        2.  [计算机科学导论(3天)](#org525e4e7)
+        3.  [编程入门(10天)](#org4ddb79d)
+        4.  [JavaSE(47天)](#org4aa0685)
+        5.  [数据结构和算法(10天)](#org1c5c417)
+    2.  [Java Web开发(9周)](#org700eda4)
+        1.  [JavaEA(30天)](#org43408b2)
+        2.  [项目实战(15天)](#orge1f1d41)
 
 
-<a id="orgb344854"></a>
+<a id="orgdfa75e7"></a>
 
 # Java后端工程师课程大纲(20周)
 
 
-<a id="org1e5ba2e"></a>
+<a id="org5ed6611"></a>
 
-## 编程入门及Java基础(10周)
+## 编程入门及Java基础(11周)
 
 
-<a id="org20ca2af"></a>
+<a id="org0a8772f"></a>
 
 ### 预备课(5天)
 
@@ -34,7 +34,7 @@
 3.  常用编辑器
 
 
-<a id="orgab1a3cd"></a>
+<a id="org525e4e7"></a>
 
 ### 计算机科学导论(3天)
 
@@ -51,7 +51,7 @@
 6.  计算机网络
 
 
-<a id="org7a4df16"></a>
+<a id="org4ddb79d"></a>
 
 ### 编程入门(10天)
 
@@ -66,7 +66,7 @@
 5.  前后端交互
 
 
-<a id="org89ba708"></a>
+<a id="org4aa0685"></a>
 
 ### JavaSE(47天)
 
@@ -75,7 +75,7 @@
 2.  数据库和JDBC(7天)
 
 
-<a id="org1ad9d1a"></a>
+<a id="org1c5c417"></a>
 
 ### 数据结构和算法(10天)
 
@@ -104,12 +104,12 @@
     4.  二叉树算法
 
 
-<a id="org794851e"></a>
+<a id="org700eda4"></a>
 
-## Java Web开发(10周)
+## Java Web开发(9周)
 
 
-<a id="orgad3839c"></a>
+<a id="org43408b2"></a>
 
 ### JavaEA(30天)
 
@@ -130,7 +130,7 @@
 8.  Web项目部署
 
 
-<a id="orgf4dbfdf"></a>
+<a id="orge1f1d41"></a>
 
 ### 项目实战(15天)
 
