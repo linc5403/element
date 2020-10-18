@@ -1,136 +1,142 @@
 
 # Table of Contents
 
-1.  [Java后端工程师课程大纲(20周)](#orgbf7ab48)
-    1.  [预备课(5天)](#org8bd56b3)
-    2.  [计算机科学导论(3天)](#org5ae685f)
-    3.  [编程入门(10天)](#org3055fbe)
-        1.  [HTML](#orgda13fac)
-        2.  [CSS](#orgd84a9d8)
-        3.  [JavaScript](#orgf60091b)
-        4.  [Node.js](#org8cee24e)
-        5.  [前后端交互](#org3e946d4)
-    4.  [JavaSE(57天)](#orgaabfc84)
-        1.  [Java语法和特性(40天)](#orgbb5ee61)
-        2.  [数据结构和算法(10天)](#orga1a5b68)
-        3.  [数据库和JDBC(7天)](#org44c598a)
-    5.  [JavaEA(30天)](#orgc7f64a4)
-        1.  [Servlet](#org2d195ee)
-        2.  [Spring框架](#org8acd891)
-        3.  [Spring MVC](#orgdbaaea3)
-        4.  [Spring Mybatis](#orga11baf7)
-        5.  [Spring Security](#org1cfe553)
-        6.  [Spring Redis](#org7adcc9c)
-        7.  [Spring MQ](#orgfb849df)
-    6.  [项目实战(15天)](#orgaa0610e)
+1.  [Java后端工程师课程大纲(20周)](#orgb344854)
+    1.  [编程入门及Java基础(10周)](#org1e5ba2e)
+        1.  [预备课(5天)](#org20ca2af)
+        2.  [计算机科学导论(3天)](#orgab1a3cd)
+        3.  [编程入门(10天)](#org7a4df16)
+        4.  [JavaSE(47天)](#org89ba708)
+        5.  [数据结构和算法(10天)](#org1ad9d1a)
+    2.  [Java Web开发(10周)](#org794851e)
+        1.  [JavaEA(30天)](#orgad3839c)
+        2.  [项目实战(15天)](#orgf4dbfdf)
 
 
-<a id="orgbf7ab48"></a>
+<a id="orgb344854"></a>
 
 # Java后端工程师课程大纲(20周)
 
 
-<a id="org8bd56b3"></a>
+<a id="org1e5ba2e"></a>
 
-## 预备课(5天)
-
-
-<a id="org5ae685f"></a>
-
-## 计算机科学导论(3天)
+## 编程入门及Java基础(10周)
 
 
-<a id="org3055fbe"></a>
+<a id="org20ca2af"></a>
 
-## 编程入门(10天)
+### 预备课(5天)
 
+1.  git
 
-<a id="orgda13fac"></a>
+2.  命令行操作
 
-### HTML
-
-
-<a id="orgd84a9d8"></a>
-
-### CSS
+3.  常用编辑器
 
 
-<a id="orgf60091b"></a>
+<a id="orgab1a3cd"></a>
 
-### JavaScript
+### 计算机科学导论(3天)
 
+1.  数字系统
 
-<a id="org8cee24e"></a>
+2.  数据存储
 
-### Node.js
+3.  数学运算
 
+4.  计算机组成
 
-<a id="org3e946d4"></a>
+5.  操作系统
 
-### 前后端交互
-
-
-<a id="orgaabfc84"></a>
-
-## JavaSE(57天)
+6.  计算机网络
 
 
-<a id="orgbb5ee61"></a>
+<a id="org7a4df16"></a>
 
-### Java语法和特性(40天)
+### 编程入门(10天)
+
+1.  HTML
+
+2.  CSS
+
+3.  JavaScript
+
+4.  Node.js
+
+5.  前后端交互
 
 
-<a id="orga1a5b68"></a>
+<a id="org89ba708"></a>
+
+### JavaSE(47天)
+
+1.  Java语法和特性(40天)
+
+2.  数据库和JDBC(7天)
+
+
+<a id="org1ad9d1a"></a>
 
 ### 数据结构和算法(10天)
 
+1.  常用数据结构及其实现
 
-<a id="org44c598a"></a>
+    1.  线性表
+    
+    2.  栈
+    
+    3.  队列
+    
+    4.  堆
+    
+    5.  Hash
+    
+    6.  树
 
-### 数据库和JDBC(7天)
+2.  常用算法
 
-
-<a id="orgc7f64a4"></a>
-
-## JavaEA(30天)
-
-
-<a id="org2d195ee"></a>
-
-### Servlet
-
-
-<a id="org8acd891"></a>
-
-### Spring框架
-
-
-<a id="orgdbaaea3"></a>
-
-### Spring MVC
-
-
-<a id="orga11baf7"></a>
-
-### Spring Mybatis
+    1.  排序
+    
+    2.  搜索
+    
+    3.  Hash算法
+    
+    4.  二叉树算法
 
 
-<a id="org1cfe553"></a>
+<a id="org794851e"></a>
 
-### Spring Security
-
-
-<a id="org7adcc9c"></a>
-
-### Spring Redis
+## Java Web开发(10周)
 
 
-<a id="orgfb849df"></a>
+<a id="orgad3839c"></a>
 
-### Spring MQ
+### JavaEA(30天)
+
+1.  Servlet
+
+2.  Spring框架
+
+3.  Spring MVC
+
+4.  Spring Mybatis
+
+5.  Spring Security
+
+6.  Spring Redis
+
+7.  Spring MQ
+
+8.  Web项目部署
 
 
-<a id="orgaa0610e"></a>
+<a id="orgf4dbfdf"></a>
 
-## 项目实战(15天)
+### 项目实战(15天)
+
+1.  敏捷开发
+
+2.  团队合作
+
+3.  前后端分离实践
 
